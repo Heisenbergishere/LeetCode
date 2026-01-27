@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
