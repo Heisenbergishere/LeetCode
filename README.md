@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
