@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Heisenbergishere/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Heisenbergishere/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 ## Simulation
 |  |
@@ -133,12 +134,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Heisenbergishere/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Heisenbergishere/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Heisenbergishere/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
