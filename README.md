@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heisenbergishere/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3379-transformed-array](https://github.com/Heisenbergishere/LeetCode/tree/master/3379-transformed-array) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Heisenbergishere/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
