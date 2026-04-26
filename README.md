@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Heisenbergishere/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Heisenbergishere/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Heisenbergishere/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Heisenbergishere/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heisenbergishere/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Heisenbergishere/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Heisenbergishere/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Heisenbergishere/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -143,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Heisenbergishere/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Heisenbergishere/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Heisenbergishere/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Heisenbergishere/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Heisenbergishere/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Heisenbergishere/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
