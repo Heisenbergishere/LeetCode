@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Heisenbergishere/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Heisenbergishere/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Heisenbergishere/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heisenbergishere/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Heisenbergishere/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heisenbergishere/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
