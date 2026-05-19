@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0011-container-with-most-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Heisenbergishere/LeetCode/tree/master/0061-rotate-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Heisenbergishere/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
