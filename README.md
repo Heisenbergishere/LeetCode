@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0011-container-with-most-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0136-single-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Heisenbergishere/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Heisenbergishere/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
