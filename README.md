@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/Heisenbergishere/LeetCode/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -83,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Heisenbergishere/LeetCode/tree/master/0561-array-partition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Heisenbergishere/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/Heisenbergishere/LeetCode/tree/master/0561-array-partition) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Heisenbergishere/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search Tree
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Heisenbergishere/LeetCode/tree/master/0002-add-two-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Heisenbergishere/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
