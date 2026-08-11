@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Heisenbergishere/LeetCode/tree/master/0260-single-number-iii) |
+| [0384-shuffle-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0561-array-partition](https://github.com/Heisenbergishere/LeetCode/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Heisenbergishere/LeetCode/tree/master/0877-stone-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0384-shuffle-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0384-shuffle-an-array) |
 ## Iterator
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Heisenbergishere/LeetCode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/Heisenbergishere/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0384-shuffle-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Heisenbergishere/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Heisenbergishere/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Heisenbergishere/LeetCode/tree/master/1510-stone-game-iv) |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Heisenbergishere/LeetCode/tree/master/1510-stone-game-iv) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
