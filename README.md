@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Heisenbergishere/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Heisenbergishere/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heisenbergishere/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Heisenbergishere/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Heisenbergishere/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3379-transformed-array](https://github.com/Heisenbergishere/LeetCode/tree/master/3379-transformed-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Heisenbergishere/LeetCode/tree/master/0389-find-the-difference) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Heisenbergishere/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1189-maximum-number-of-balloons](https://github.com/Heisenbergishere/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Heisenbergishere/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Heisenbergishere/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Heisenbergishere/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Heisenbergishere/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Heisenbergishere/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
