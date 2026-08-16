@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Heisenbergishere/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1695-maximum-erasure-value](https://github.com/Heisenbergishere/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Heisenbergishere/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Heisenbergishere/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Heisenbergishere/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Heisenbergishere/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Heisenbergishere/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Heisenbergishere/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Heisenbergishere/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Heisenbergishere/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Heisenbergishere/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Heisenbergishere/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
