@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heisenbergishere/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Heisenbergishere/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Heisenbergishere/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Heisenbergishere/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heisenbergishere/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Heisenbergishere/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Heisenbergishere/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Heisenbergishere/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Heisenbergishere/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Heisenbergishere/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Heisenbergishere/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
