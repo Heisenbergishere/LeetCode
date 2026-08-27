@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Heisenbergishere/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Heisenbergishere/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2460-apply-operations-to-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heisenbergishere/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Heisenbergishere/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Heisenbergishere/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Heisenbergishere/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Heisenbergishere/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Heisenbergishere/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Heisenbergishere/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Heisenbergishere/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3379-transformed-array](https://github.com/Heisenbergishere/LeetCode/tree/master/3379-transformed-array) |
 ## Stack
