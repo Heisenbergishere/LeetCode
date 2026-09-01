@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Heisenbergishere/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Heisenbergishere/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Heisenbergishere/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Heisenbergishere/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
 | ------- |
