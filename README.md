@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Heisenbergishere/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3379-transformed-array](https://github.com/Heisenbergishere/LeetCode/tree/master/3379-transformed-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Heisenbergishere/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Heisenbergishere/LeetCode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
