@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Heisenbergishere/LeetCode/tree/master/3379-transformed-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0525-contiguous-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Heisenbergishere/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3903-smallest-stable-index-i](https://github.com/Heisenbergishere/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
