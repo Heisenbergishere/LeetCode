@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Heisenbergishere/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Heisenbergishere/LeetCode/tree/master/0169-majority-element) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Heisenbergishere/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Heisenbergishere/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Heisenbergishere/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Heisenbergishere/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Heisenbergishere/LeetCode/tree/master/0322-coin-change) |
