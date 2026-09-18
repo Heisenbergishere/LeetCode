@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Heisenbergishere/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Heisenbergishere/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Heisenbergishere/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Heisenbergishere/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Heisenbergishere/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Heisenbergishere/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Heisenbergishere/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Heisenbergishere/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0268-missing-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Heisenbergishere/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Heisenbergishere/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Heisenbergishere/LeetCode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Heisenbergishere/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Heisenbergishere/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -447,4 +451,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Heisenbergishere/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
