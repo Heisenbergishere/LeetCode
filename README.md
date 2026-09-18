@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Heisenbergishere/LeetCode/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/Heisenbergishere/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Heisenbergishere/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Heisenbergishere/LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Heisenbergishere/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -259,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Heisenbergishere/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/Heisenbergishere/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Heisenbergishere/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Heisenbergishere/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
