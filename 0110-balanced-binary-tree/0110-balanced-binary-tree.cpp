@@ -11,28 +11,17 @@
  */
 class Solution {
 public:
-int HeightOfTree( TreeNode* root){
-    queue<TreeNode*>q;
-    if (root == nullptr) return 0;
-    int count =0;
-    q.push(root);
-    while(!q.empty()){
-        int s =q.size();
-        for( int i =0;i<s;i++){
-            TreeNode* curr = q.front();
-            q.pop();
-                if( curr->left) q.push(curr->left);
-                if( curr->right) q.push(curr->right);
-        }
-        count++;
-    }
-    return count;
+
+ int height( TreeNode* root){
+    if( !root)return true;
+    int a = height(root->left);
+    int b =  height(root->right);
+    if( a==-1 || b==-1)return -1;
+    if( abs(a-b) >1)return -1;
+    return 1+max( a,b);
 }
+
     bool isBalanced(TreeNode* root) {
-        if( root == NULL)return true;
-        int Left =HeightOfTree( root->left);
-        int Right = HeightOfTree(root->right);
-        if( abs (Left -Right) >1)return false;
-        return isBalanced(root->left) && isBalanced(root->right);
+        return height(root) != -1 ? true : false;
     }
 };
