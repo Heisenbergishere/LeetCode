@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heisenbergishere/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Heisenbergishere/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Heisenbergishere/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Heisenbergishere/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Heisenbergishere/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Heisenbergishere/LeetCode/tree/master/0213-house-robber-ii) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
