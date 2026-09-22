@@ -10,16 +10,15 @@
  */
 class Solution {
 public:
+
+ListNode* fun(ListNode* node , ListNode*prev){
+    if( node==NULL)return prev;
+    ListNode*  n = node->next;
+    node->next = prev;
+    prev = node;
+  return  node = fun(n, prev); 
+}
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev = NULL;
-        ListNode* nextn = NULL;
-        ListNode* node = head;
-        while( node !=NULL ){
-            nextn = node->next;
-            node->next=prev;
-            prev = node;
-            node = nextn;
-        }
-        return prev;
+        return fun(head,NULL);
     }
 };
