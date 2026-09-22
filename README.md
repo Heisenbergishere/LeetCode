@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Heisenbergishere/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Heisenbergishere/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Heisenbergishere/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Heisenbergishere/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Heisenbergishere/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Heisenbergishere/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Heisenbergishere/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Heisenbergishere/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -496,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Heisenbergishere/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
