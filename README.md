@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heisenbergishere/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heisenbergishere/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/Heisenbergishere/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Heisenbergishere/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Heisenbergishere/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Heisenbergishere/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -529,4 +533,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Heisenbergishere/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Heisenbergishere/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
