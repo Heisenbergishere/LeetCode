@@ -11,25 +11,22 @@
  */
 class Solution {
 public:
-int search(vector<int>&inorder,int left , int right,int val){
-    int i;
-    for(  i=left;i<=right;i++){
-        if( val == inorder[i])break;
-    }
-    return i;
-}
-TreeNode* Helper(vector<int>& preorder, vector<int>& inorder,int& preidx,int left ,int right){
-    if( left > right)return NULL;
-    TreeNode* root = new TreeNode(preorder[preidx]);
-    
-    int idx = search( inorder,left,right,preorder[preidx]);
-    preidx++;
-    root->left  = Helper(preorder,inorder,preidx,left,idx-1);
-    root->right = Helper(preorder,inorder,preidx,idx+1,right);
-    return root;
+TreeNode* create(int idx,int i,int j,vector<int>pre,vector<int>&in){
+	int t;
+	if( i>j)return nullptr;
+	TreeNode* root = new TreeNode(pre[idx]);
+	for( int k = i;k<=j;k++){
+		if( in[k]==pre[idx]){
+			t=k;
+			break;
+		}
+	}
+	int l=t-i;
+	root->left =create(idx+1,i,t-1,pre,in);
+	root->right = create(idx+l+1,t+1,j,pre,in);
+	return root;
 }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int preidx =0;
-    return Helper(preorder,inorder,preidx,0,preorder.size()-1);
+        return create(0,0,preorder.size()-1,preorder,inorder);
     }
 };
