@@ -2,7 +2,6 @@ class Solution {
 public:
     int longestValidParentheses(string s) {
         int n = s.size();
-        stack<char>st;
         int l=0,r=0,mx=0;
         for( int i =0;i<n;i++){
             int c = s[i];
@@ -29,7 +28,6 @@ public:
                 mx = max( mx , l*2);
             }
         }
-        //if(!st.empty())return ans-2*(st.size());
         return mx;
     }
 };
